@@ -7,3 +7,4 @@ RUN apk add --no-cache curl jq ca-certificates && \
     tar -xz -C /usr/local/bin crane
 
 USER user
+
